@@ -15,6 +15,8 @@ This project uses an HC-05 Bluetooth module to receive single-character commands
 - Arduino Car.apk
 
 ## Hardware & Wiring
+## Diagram
+![Wiring Diagram](https://github.com/Nahian777/Working_HC-05_RC__BLE/blob/main/diagram.png?raw=true)
 
 ### Motor Driver Pins (as used in the sketch)
 | Function | Arduino Pin |
