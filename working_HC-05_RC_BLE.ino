@@ -1,5 +1,3 @@
-
-
 #define led1 = 13
 #define in1 = 12
 #define in2 = 11
@@ -34,7 +32,7 @@ void loop() {
     else if (inputvalue == 'L') {
       digitalWrite(12, LOW);
       digitalWrite(11, LOW);
-      digitalWrite(10, HIGH)
+      digitalWrite(10, HIGH);
       digitalWrite(9, LOW);
     }
 
